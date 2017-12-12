@@ -24,7 +24,7 @@ MAIN PROC
     
     MOV AH,1
     INT 21H
-    SUB AL,48                        s
+    SUB AL,48                        
     MOV A,AL 
     
     LEA DX,MSG2
