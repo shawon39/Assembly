@@ -32,7 +32,7 @@ MAIN PROC
                     ; 5 er beshi hole exit e jabe, so ai jonno cl er value 1 kora holo 
                     
                     
-        INC BH      ; AKHANE BH ER VALUE 2,3,4,5 PORJONYO INCRESE HOBE
+        INC BH      ; AKHANE BH ER VALUE 2,3,4,5 PORJONYO INCREASE HOBE
         INC BL 
         JMP LOOP1 
     
